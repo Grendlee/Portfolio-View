@@ -13,7 +13,7 @@ A modern web application for tracking your stock portfolio with Google authentic
 ## Tech Stack
 
 - **React 19** with TypeScript
-- **Vite** for fast development and building
+- **Next.js**
 - **CSS3** for styling
 - **Google OAuth** for authentication
 - **Firebase** for data storage (coming soon)
